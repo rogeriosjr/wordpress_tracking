@@ -1,5 +1,5 @@
 
-# Plugin LGPD Modal
+# Plugin Tracking
 
 Plugin criado para Wordpress 5.4+
 
@@ -20,3 +20,8 @@ cor e opacidade da modal e do container.
 Veja um demonstração em https://www.dramarinamaia.com.br/
 
 
+## Screenshots
+
+![App Screenshot](https://clickartweb.com.br/updates/wordpress/plugins/lgpd-modal/pag1.jpg?text=TRACKING)
+
+![App Screenshot](https://clickartweb.com.br/updates/wordpress/plugins/lgpd-modal/pag2.jpg?text=TRACKING)
