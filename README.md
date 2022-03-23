@@ -22,6 +22,6 @@ Veja um demonstração em https://www.dramarinamaia.com.br/
 
 ## Screenshots
 
-![App Screenshot](https://clickartweb.com.br/updates/wordpress/plugins/lgpd-modal/pag1.jpg?text=TRACKING)
+![App Screenshot](https://clickartweb.com.br/updates/wordpress/plugins/lgpd-modal/pag1.gif?text=TRACKING)
 
-![App Screenshot](https://clickartweb.com.br/updates/wordpress/plugins/lgpd-modal/pag2.jpg?text=TRACKING)
+![App Screenshot](https://clickartweb.com.br/updates/wordpress/plugins/lgpd-modal/pag2.gif?text=TRACKING)
